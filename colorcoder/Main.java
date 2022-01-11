@@ -4,10 +4,10 @@ public class Main {
 
 
     public static void main(String[] args) {
-        ColorCoderTest.testNumberToPair(4, MajorColor.WHITE, MinorColor.BROWN);
-        ColorCoderTest.testNumberToPair(5, MajorColor.WHITE, MinorColor.SLATE);
+        ColorCodetesting.testNumberToPair(4, MajorColor.WHITE, MinorColor.BROWN);
+        ColorCodetesting.testNumberToPair(5, MajorColor.WHITE, MinorColor.SLATE);
     
-        ColorCoderTest.testPairToNumber(MajorColor.BLACK, MinorColor.ORANGE, 12);
-        ColorCoderTest.testPairToNumber(MajorColor.VIOLET, MinorColor.SLATE, 25);
+        ColorCodetesting.testPairToNumber(MajorColor.BLACK, MinorColor.ORANGE, 12);
+        ColorCodetesting.testPairToNumber(MajorColor.VIOLET, MinorColor.SLATE, 25);
     }
 }
