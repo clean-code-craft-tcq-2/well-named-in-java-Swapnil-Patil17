@@ -4,6 +4,7 @@ public class Main {
     
     public static void main(String[] args) {
         
+        
         ColorCoderTest.testNumberToPair(4, MajorColor.WHITE, MinorColor.BROWN);
         ColorCoderTest.testNumberToPair(5, MajorColor.WHITE, MinorColor.SLATE);
     
