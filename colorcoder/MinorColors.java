@@ -1,5 +1,5 @@
 package colorcoder;
-public  enum MinorColors {
+public  enum MinorColor {
         BLUE(0),
         ORANGE(1),
         GREEN(2),
